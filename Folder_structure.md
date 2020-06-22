@@ -1,7 +1,7 @@
-ADS_COVID-19
+IDS_COVID-19
 ==============================
 
-Applied data science on COVID-19 data
+Introduction to Data Science project on COVID-19 dataset @ TU_Kaiserslautern SS20
 
 Project Organization
 ------------
