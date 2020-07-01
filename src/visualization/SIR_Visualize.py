@@ -5,11 +5,16 @@ dash.__version__
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output,State
-
+import random
 import plotly.graph_objects as go
 
 
 df_dash = pd.read_csv('E:/ads_covid-19/data/processed/SIR_calculated.csv',sep=';')
+
+color_list = []
+for i in range(int((df_dash.shape[1]-1)/2)):
+    random_color = '#%02x%02x%02x' % (random.randint(0, 255),random.randint(0, 255), random.randint(0, 255))
+    color_list.append(random_color)
 
 fig = go.Figure()
 app = dash.Dash()
@@ -45,25 +50,25 @@ app.layout = html.Div([
     Output('SIR', 'figure'),
     [Input('country_drop_down', 'value')])
 def update_figure(country_list):
-
-
     traces = []
-    for each in country_list:
+    for pos, each in enumerate(country_list):
 
         df_plot=df_dash[[each, each+'_fitted']]
 
         traces.append(dict(x=df_plot.index,
                                 y=df_plot[each],
-                                mode='markers+lines',
+                                mode='lines',
                                 opacity=0.9,
-                                name=each
+                                name=each,
+                                line = dict(color = color_list[pos])
                         )
                 )
         traces.append(dict(x=df_plot.index,
                                 y=df_plot[each+'_fitted'],
                                 mode='markers+lines',
                                 opacity=0.9,
-                                name=each+'_simulated'
+                                name=each+'_simulated',
+                                line = dict(color = color_list[pos])
                         )
                 )
 
