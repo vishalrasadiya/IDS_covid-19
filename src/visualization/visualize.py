@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 
 import os
 print(os.getcwd())
-df_input_large=pd.read_csv('E:/ads_covid-19/data/processed/COVID_final_set.csv',sep=';')
+df_input_large=pd.read_csv('E:/ads_covid-19/IDS_covid-19/data/processed/COVID_final_set.csv',sep=';')
 
 
 fig = go.Figure()
@@ -19,17 +19,23 @@ app = dash.Dash()
 app.layout = html.Div([
 
     dcc.Markdown('''
-    #  Applied Data Science on COVID-19 data
+    #  Applied Data Science on COVID-19 Data - Part 1
 
-    Goal of the project is to teach data science by applying a cross industry standard process,
-    it covers the full walkthrough of: automated data gathering, data transformations,
-    filtering and machine learning to approximating the doubling time, and
-    (static) deployment of responsive dashboard.
+    * Goal of the project is to learn data science by applying a cross-industry standard process.\
+        The default layout contains the confirmed infected cases in the log-scale format on the Y-axis\
+        and Timeline in Days on the X-axis.
+
+    ### The first dropdown menu enables selection of one or multiple  countries for visualization.
+    ### The seconds dropdown menu contains four option:
+        1. The ‘Timeline Confirmed’ represents confirmed infected cases along the timeline.
+        2. The ‘Timeline Confirmed Filtered’ represents filtered(savgol filter) confirmed infected cases along the timeline.
+        3. The ‘Timeline Doubling Rate’ represents the doubling rate of the infected cases along the timeline.
+        4. The ‘Timeline Doubling Rate Filtered’ represents the doubling rate of the filtered(savgol filter) infected cases along the timeline.
 
     '''),
 
     dcc.Markdown('''
-    ## Multi-Select Country for visualization
+    ### Select country below:
     '''),
 
 
@@ -41,7 +47,7 @@ app.layout = html.Div([
     ),
 
     dcc.Markdown('''
-        ## Select Timeline of confirmed COVID-19 cases or the approximated doubling time
+        ### Select timeline of confirmed COVID-19 cases or the approximated doubling time:
         '''),
 
 

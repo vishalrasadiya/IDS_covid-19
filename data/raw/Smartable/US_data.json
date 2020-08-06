@@ -7,14 +7,14 @@
     "isoCode": "US",
     "lat": 37.09024
   },
-  "updatedDateTime": "2020-06-16T13:45:29.0976734Z",
+  "updatedDateTime": "2020-08-05T22:01:15.1780583Z",
   "stats": {
-    "totalConfirmedCases": 2154696,
-    "newlyConfirmedCases": 716,
-    "totalDeaths": 118231,
-    "newDeaths": 51,
-    "totalRecoveredCases": 862483,
-    "newlyRecoveredCases": 149,
+    "totalConfirmedCases": 4882568,
+    "newlyConfirmedCases": 37580,
+    "totalDeaths": 168073,
+    "newDeaths": 522,
+    "totalRecoveredCases": 2454073,
+    "newlyRecoveredCases": 38632,
     "history": [
       {
         "date": "2020-01-22T00:00:00",
@@ -894,9 +894,309 @@
       },
       {
         "date": "2020-06-16T00:00:00",
-        "confirmed": 2154696,
-        "deaths": 118231,
-        "recovered": 862483
+        "confirmed": 2179503,
+        "deaths": 118982,
+        "recovered": 875322
+      },
+      {
+        "date": "2020-06-17T00:00:00",
+        "confirmed": 2204892,
+        "deaths": 119784,
+        "recovered": 890053
+      },
+      {
+        "date": "2020-06-18T00:00:00",
+        "confirmed": 2233651,
+        "deaths": 120476,
+        "recovered": 902154
+      },
+      {
+        "date": "2020-06-19T00:00:00",
+        "confirmed": 2266421,
+        "deaths": 121174,
+        "recovered": 926602
+      },
+      {
+        "date": "2020-06-20T00:00:00",
+        "confirmed": 2298951,
+        "deaths": 121767,
+        "recovered": 943308
+      },
+      {
+        "date": "2020-06-21T00:00:00",
+        "confirmed": 2324676,
+        "deaths": 122187,
+        "recovered": 950679
+      },
+      {
+        "date": "2020-06-22T00:00:00",
+        "confirmed": 2355713,
+        "deaths": 122549,
+        "recovered": 973046
+      },
+      {
+        "date": "2020-06-23T00:00:00",
+        "confirmed": 2391498,
+        "deaths": 123380,
+        "recovered": 990169
+      },
+      {
+        "date": "2020-06-24T00:00:00",
+        "confirmed": 2425103,
+        "deaths": 124061,
+        "recovered": 1009965
+      },
+      {
+        "date": "2020-06-25T00:00:00",
+        "confirmed": 2468799,
+        "deaths": 126653,
+        "recovered": 1021495
+      },
+      {
+        "date": "2020-06-26T00:00:00",
+        "confirmed": 2512791,
+        "deaths": 127324,
+        "recovered": 1037234
+      },
+      {
+        "date": "2020-06-27T00:00:00",
+        "confirmed": 2555991,
+        "deaths": 127868,
+        "recovered": 1049520
+      },
+      {
+        "date": "2020-06-28T00:00:00",
+        "confirmed": 2598087,
+        "deaths": 128233,
+        "recovered": 1061476
+      },
+      {
+        "date": "2020-06-29T00:00:00",
+        "confirmed": 2640787,
+        "deaths": 128590,
+        "recovered": 1084812
+      },
+      {
+        "date": "2020-06-30T00:00:00",
+        "confirmed": 2685931,
+        "deaths": 129899,
+        "recovered": 1110744
+      },
+      {
+        "date": "2020-07-01T00:00:00",
+        "confirmed": 2735854,
+        "deaths": 130536,
+        "recovered": 1131444
+      },
+      {
+        "date": "2020-07-02T00:00:00",
+        "confirmed": 2792006,
+        "deaths": 131166,
+        "recovered": 1157471
+      },
+      {
+        "date": "2020-07-03T00:00:00",
+        "confirmed": 2844579,
+        "deaths": 131892,
+        "recovered": 1201542
+      },
+      {
+        "date": "2020-07-04T00:00:00",
+        "confirmed": 2889815,
+        "deaths": 132130,
+        "recovered": 1226135
+      },
+      {
+        "date": "2020-07-05T00:00:00",
+        "confirmed": 2943264,
+        "deaths": 132397,
+        "recovered": 1249866
+      },
+      {
+        "date": "2020-07-06T00:00:00",
+        "confirmed": 2988818,
+        "deaths": 132742,
+        "recovered": 1289732
+      },
+      {
+        "date": "2020-07-07T00:00:00",
+        "confirmed": 3040467,
+        "deaths": 133368,
+        "recovered": 1318933
+      },
+      {
+        "date": "2020-07-08T00:00:00",
+        "confirmed": 3108494,
+        "deaths": 134732,
+        "recovered": 1356209
+      },
+      {
+        "date": "2020-07-09T00:00:00",
+        "confirmed": 3169373,
+        "deaths": 135652,
+        "recovered": 1389481
+      },
+      {
+        "date": "2020-07-10T00:00:00",
+        "confirmed": 3238202,
+        "deaths": 136466,
+        "recovered": 1422416
+      },
+      {
+        "date": "2020-07-11T00:00:00",
+        "confirmed": 3300650,
+        "deaths": 137146,
+        "recovered": 1451893
+      },
+      {
+        "date": "2020-07-12T00:00:00",
+        "confirmed": 3352439,
+        "deaths": 137786,
+        "recovered": 1478369
+      },
+      {
+        "date": "2020-07-13T00:00:00",
+        "confirmed": 3429613,
+        "deaths": 138322,
+        "recovered": 1509937
+      },
+      {
+        "date": "2020-07-14T00:00:00",
+        "confirmed": 3492990,
+        "deaths": 139212,
+        "recovered": 1559894
+      },
+      {
+        "date": "2020-07-15T00:00:00",
+        "confirmed": 3565766,
+        "deaths": 140236,
+        "recovered": 1604460
+      },
+      {
+        "date": "2020-07-16T00:00:00",
+        "confirmed": 3642585,
+        "deaths": 141179,
+        "recovered": 1637461
+      },
+      {
+        "date": "2020-07-17T00:00:00",
+        "confirmed": 3708932,
+        "deaths": 142036,
+        "recovered": 1697409
+      },
+      {
+        "date": "2020-07-18T00:00:00",
+        "confirmed": 3776352,
+        "deaths": 142841,
+        "recovered": 1731126
+      },
+      {
+        "date": "2020-07-19T00:00:00",
+        "confirmed": 3840443,
+        "deaths": 143260,
+        "recovered": 1758065
+      },
+      {
+        "date": "2020-07-20T00:00:00",
+        "confirmed": 3901296,
+        "deaths": 143781,
+        "recovered": 1805778
+      },
+      {
+        "date": "2020-07-21T00:00:00",
+        "confirmed": 3968161,
+        "deaths": 144879,
+        "recovered": 1841299
+      },
+      {
+        "date": "2020-07-22T00:00:00",
+        "confirmed": 4036805,
+        "deaths": 145806,
+        "recovered": 1886392
+      },
+      {
+        "date": "2020-07-23T00:00:00",
+        "confirmed": 4106851,
+        "deaths": 147130,
+        "recovered": 1931504
+      },
+      {
+        "date": "2020-07-24T00:00:00",
+        "confirmed": 4182405,
+        "deaths": 155973,
+        "recovered": 1978140
+      },
+      {
+        "date": "2020-07-25T00:00:00",
+        "confirmed": 4248812,
+        "deaths": 156848,
+        "recovered": 2011669
+      },
+      {
+        "date": "2020-07-26T00:00:00",
+        "confirmed": 4301115,
+        "deaths": 157247,
+        "recovered": 2038358
+      },
+      {
+        "date": "2020-07-27T00:00:00",
+        "confirmed": 4356901,
+        "deaths": 157554,
+        "recovered": 2083174
+      },
+      {
+        "date": "2020-07-28T00:00:00",
+        "confirmed": 4427183,
+        "deaths": 160232,
+        "recovered": 2131080
+      },
+      {
+        "date": "2020-07-29T00:00:00",
+        "confirmed": 4495980,
+        "deaths": 161608,
+        "recovered": 2188010
+      },
+      {
+        "date": "2020-07-30T00:00:00",
+        "confirmed": 4562227,
+        "deaths": 162878,
+        "recovered": 2226151
+      },
+      {
+        "date": "2020-07-31T00:00:00",
+        "confirmed": 4629847,
+        "deaths": 164200,
+        "recovered": 2266172
+      },
+      {
+        "date": "2020-08-01T00:00:00",
+        "confirmed": 4688244,
+        "deaths": 165212,
+        "recovered": 2299775
+      },
+      {
+        "date": "2020-08-02T00:00:00",
+        "confirmed": 4740773,
+        "deaths": 165585,
+        "recovered": 2316928
+      },
+      {
+        "date": "2020-08-03T00:00:00",
+        "confirmed": 4786980,
+        "deaths": 166024,
+        "recovered": 2381819
+      },
+      {
+        "date": "2020-08-04T00:00:00",
+        "confirmed": 4844988,
+        "deaths": 167551,
+        "recovered": 2415441
+      },
+      {
+        "date": "2020-08-05T00:00:00",
+        "confirmed": 4882568,
+        "deaths": 168073,
+        "recovered": 2454073
       }
     ],
     "breakdowns": [
@@ -925,7 +1225,7 @@
           "isoCode": null,
           "lat": 18.220833
         },
-        "totalConfirmedCases": 1307,
+        "totalConfirmedCases": 20057,
         "newlyConfirmedCases": 0,
         "totalDeaths": 83,
         "newDeaths": 0,
@@ -957,11 +1257,11 @@
           "isoCode": "US-AL",
           "lat": 32.318231
         },
-        "totalConfirmedCases": 26273,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 776,
-        "newDeaths": 1,
-        "totalRecoveredCases": 13508,
+        "totalConfirmedCases": 94654,
+        "newlyConfirmedCases": 949,
+        "totalDeaths": 1695,
+        "newDeaths": 29,
+        "totalRecoveredCases": 35401,
         "newlyRecoveredCases": 0
       },
       {
@@ -973,12 +1273,12 @@
           "isoCode": "US-AK",
           "lat": 63.588753
         },
-        "totalConfirmedCases": 775,
+        "totalConfirmedCases": 4183,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 12,
+        "totalDeaths": 28,
         "newDeaths": 0,
-        "totalRecoveredCases": 417,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 1017,
+        "newlyRecoveredCases": 30
       },
       {
         "location": {
@@ -989,11 +1289,11 @@
           "isoCode": "US-AZ",
           "lat": 34.048928
         },
-        "totalConfirmedCases": 36938,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 1206,
-        "newDeaths": 0,
-        "totalRecoveredCases": 6462,
+        "totalConfirmedCases": 182203,
+        "newlyConfirmedCases": 1663,
+        "totalDeaths": 3932,
+        "newDeaths": 82,
+        "totalRecoveredCases": 23944,
         "newlyRecoveredCases": 0
       },
       {
@@ -1005,12 +1305,12 @@
           "isoCode": "US-AR",
           "lat": 35.20105
         },
-        "totalConfirmedCases": 12917,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 184,
-        "newDeaths": 0,
-        "totalRecoveredCases": 8352,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 46293,
+        "newlyConfirmedCases": 912,
+        "totalDeaths": 508,
+        "newDeaths": 18,
+        "totalRecoveredCases": 38848,
+        "newlyRecoveredCases": 848
       },
       {
         "location": {
@@ -1021,12 +1321,12 @@
           "isoCode": "US-CA",
           "lat": 36.778261
         },
-        "totalConfirmedCases": 155757,
-        "newlyConfirmedCases": 5,
-        "totalDeaths": 5156,
-        "newDeaths": 2,
-        "totalRecoveredCases": 42179,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 529748,
+        "newlyConfirmedCases": 1398,
+        "totalDeaths": 10124,
+        "newDeaths": 0,
+        "totalRecoveredCases": 196383,
+        "newlyRecoveredCases": 1550
       },
       {
         "location": {
@@ -1037,11 +1337,11 @@
           "isoCode": "US-CO",
           "lat": 39.550051
         },
-        "totalConfirmedCases": 29299,
+        "totalConfirmedCases": 48512,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 1609,
+        "totalDeaths": 1858,
         "newDeaths": 0,
-        "totalRecoveredCases": 4196,
+        "totalRecoveredCases": 18054,
         "newlyRecoveredCases": 0
       },
       {
@@ -1053,11 +1353,11 @@
           "isoCode": "US-CT",
           "lat": 41.603221
         },
-        "totalConfirmedCases": 45235,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 4206,
+        "totalConfirmedCases": 50225,
+        "newlyConfirmedCases": 115,
+        "totalDeaths": 4438,
         "newDeaths": 0,
-        "totalRecoveredCases": 8692,
+        "totalRecoveredCases": 26518,
         "newlyRecoveredCases": 0
       },
       {
@@ -1101,12 +1401,12 @@
           "isoCode": "US-DE",
           "lat": 38.910832
         },
-        "totalConfirmedCases": 10340,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 423,
+        "totalConfirmedCases": 15296,
+        "newlyConfirmedCases": 159,
+        "totalDeaths": 587,
         "newDeaths": 0,
-        "totalRecoveredCases": 6172,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 8339,
+        "newlyRecoveredCases": 36
       },
       {
         "location": {
@@ -1117,12 +1417,12 @@
           "isoCode": "US-DC",
           "lat": 38.9072
         },
-        "totalConfirmedCases": 9799,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 515,
+        "totalConfirmedCases": 12443,
+        "newlyConfirmedCases": 45,
+        "totalDeaths": 587,
         "newDeaths": 0,
-        "totalRecoveredCases": 1143,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 10015,
+        "newlyRecoveredCases": 56
       },
       {
         "location": {
@@ -1133,11 +1433,11 @@
           "isoCode": "US-FL",
           "lat": 27.664827
         },
-        "totalConfirmedCases": 77326,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 2941,
+        "totalConfirmedCases": 502739,
+        "newlyConfirmedCases": 5409,
+        "totalDeaths": 14932,
         "newDeaths": 0,
-        "totalRecoveredCases": 15065,
+        "totalRecoveredCases": 47900,
         "newlyRecoveredCases": 0
       },
       {
@@ -1149,11 +1449,11 @@
           "isoCode": "US-GA",
           "lat": 32.157435
         },
-        "totalConfirmedCases": 58414,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 2523,
-        "newDeaths": 19,
-        "totalRecoveredCases": 1772,
+        "totalConfirmedCases": 201713,
+        "newlyConfirmedCases": 3765,
+        "totalDeaths": 3984,
+        "newDeaths": 58,
+        "totalRecoveredCases": 34111,
         "newlyRecoveredCases": 0
       },
       {
@@ -1165,11 +1465,11 @@
           "isoCode": "US-HI",
           "lat": 19.898682
         },
-        "totalConfirmedCases": 736,
+        "totalConfirmedCases": 2591,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 17,
+        "totalDeaths": 27,
         "newDeaths": 0,
-        "totalRecoveredCases": 630,
+        "totalRecoveredCases": 1354,
         "newlyRecoveredCases": 0
       },
       {
@@ -1181,11 +1481,11 @@
           "isoCode": "US-ID",
           "lat": 44.068202
         },
-        "totalConfirmedCases": 3474,
-        "newlyConfirmedCases": 12,
-        "totalDeaths": 91,
-        "newDeaths": 2,
-        "totalRecoveredCases": 2877,
+        "totalConfirmedCases": 22358,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 215,
+        "newDeaths": 0,
+        "totalRecoveredCases": 7875,
         "newlyRecoveredCases": 0
       },
       {
@@ -1197,11 +1497,11 @@
           "isoCode": "US-IL",
           "lat": 40.633125
         },
-        "totalConfirmedCases": 133496,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 6356,
-        "newDeaths": 0,
-        "totalRecoveredCases": 84045,
+        "totalConfirmedCases": 187752,
+        "newlyConfirmedCases": 1759,
+        "totalDeaths": 7770,
+        "newDeaths": 28,
+        "totalRecoveredCases": 143355,
         "newlyRecoveredCases": 0
       },
       {
@@ -1213,11 +1513,11 @@
           "isoCode": "US-IN",
           "lat": 40.551217
         },
-        "totalConfirmedCases": 41114,
+        "totalConfirmedCases": 77571,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 2433,
-        "newDeaths": 0,
-        "totalRecoveredCases": 28744,
+        "totalDeaths": 3007,
+        "newDeaths": 8,
+        "totalRecoveredCases": 46955,
         "newlyRecoveredCases": 0
       },
       {
@@ -1229,12 +1529,12 @@
           "isoCode": "US-IA",
           "lat": 41.878003
         },
-        "totalConfirmedCases": 24152,
-        "newlyConfirmedCases": 55,
-        "totalDeaths": 661,
-        "newDeaths": 2,
-        "totalRecoveredCases": 14774,
-        "newlyRecoveredCases": 149
+        "totalConfirmedCases": 46659,
+        "newlyConfirmedCases": 408,
+        "totalDeaths": 899,
+        "newDeaths": 8,
+        "totalRecoveredCases": 34724,
+        "newlyRecoveredCases": 684
       },
       {
         "location": {
@@ -1245,12 +1545,12 @@
           "isoCode": "US-KS",
           "lat": 39.011902
         },
-        "totalConfirmedCases": 11550,
-        "newlyConfirmedCases": 69,
-        "totalDeaths": 256,
+        "totalConfirmedCases": 29995,
+        "newlyConfirmedCases": 642,
+        "totalDeaths": 378,
         "newDeaths": 0,
-        "totalRecoveredCases": 6127,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 17571,
+        "newlyRecoveredCases": 449
       },
       {
         "location": {
@@ -1261,12 +1561,12 @@
           "isoCode": "US-KY",
           "lat": 37.839333
         },
-        "totalConfirmedCases": 12791,
+        "totalConfirmedCases": 33210,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 510,
-        "newDeaths": 1,
-        "totalRecoveredCases": 3416,
-        "newlyRecoveredCases": 0
+        "totalDeaths": 771,
+        "newDeaths": 0,
+        "totalRecoveredCases": 8467,
+        "newlyRecoveredCases": 61
       },
       {
         "location": {
@@ -1277,12 +1577,12 @@
           "isoCode": "US-LA",
           "lat": 31.244823
         },
-        "totalConfirmedCases": 47172,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 3023,
-        "newDeaths": 0,
-        "totalRecoveredCases": 37017,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 125943,
+        "newlyConfirmedCases": 1458,
+        "totalDeaths": 4096,
+        "newDeaths": 45,
+        "totalRecoveredCases": 89083,
+        "newlyRecoveredCases": 14837
       },
       {
         "location": {
@@ -1293,12 +1593,12 @@
           "isoCode": "US-ME",
           "lat": 45.253783
         },
-        "totalConfirmedCases": 2813,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 101,
+        "totalConfirmedCases": 3992,
+        "newlyConfirmedCases": 11,
+        "totalDeaths": 124,
         "newDeaths": 0,
-        "totalRecoveredCases": 2189,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 3456,
+        "newlyRecoveredCases": 32
       },
       {
         "location": {
@@ -1309,12 +1609,12 @@
           "isoCode": "US-MD",
           "lat": 39.045755
         },
-        "totalConfirmedCases": 62032,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 2947,
-        "newDeaths": 0,
-        "totalRecoveredCases": 4567,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 92426,
+        "newlyConfirmedCases": 572,
+        "totalDeaths": 3536,
+        "newDeaths": 6,
+        "totalRecoveredCases": 5749,
+        "newlyRecoveredCases": 9
       },
       {
         "location": {
@@ -1325,11 +1625,11 @@
           "isoCode": "US-MA",
           "lat": 42.407211
         },
-        "totalConfirmedCases": 105690,
+        "totalConfirmedCases": 119203,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 7647,
+        "totalDeaths": 8657,
         "newDeaths": 0,
-        "totalRecoveredCases": 84621,
+        "totalRecoveredCases": 97595,
         "newlyRecoveredCases": 0
       },
       {
@@ -1341,11 +1641,11 @@
           "isoCode": "US-MI",
           "lat": 44.314844
         },
-        "totalConfirmedCases": 66085,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 6017,
+        "totalConfirmedCases": 93893,
+        "newlyConfirmedCases": 505,
+        "totalDeaths": 6486,
         "newDeaths": 0,
-        "totalRecoveredCases": 44964,
+        "totalRecoveredCases": 60022,
         "newlyRecoveredCases": 0
       },
       {
@@ -1357,12 +1657,12 @@
           "isoCode": "US-MN",
           "lat": 46.729553
         },
-        "totalConfirmedCases": 30693,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 1335,
-        "newDeaths": 0,
-        "totalRecoveredCases": 26609,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 57779,
+        "newlyConfirmedCases": 617,
+        "totalDeaths": 1670,
+        "newDeaths": 10,
+        "totalRecoveredCases": 51223,
+        "newlyRecoveredCases": 797
       },
       {
         "location": {
@@ -1373,11 +1673,11 @@
           "isoCode": "US-MS",
           "lat": 32.354668
         },
-        "totalConfirmedCases": 19805,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 895,
-        "newDeaths": 0,
-        "totalRecoveredCases": 15323,
+        "totalConfirmedCases": 63444,
+        "newlyConfirmedCases": 1242,
+        "totalDeaths": 1804,
+        "newDeaths": 49,
+        "totalRecoveredCases": 42391,
         "newlyRecoveredCases": 0
       },
       {
@@ -1389,11 +1689,11 @@
           "isoCode": "US-MO",
           "lat": 37.964253
         },
-        "totalConfirmedCases": 16696,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 895,
-        "newDeaths": 0,
-        "totalRecoveredCases": 3786,
+        "totalConfirmedCases": 55896,
+        "newlyConfirmedCases": 1111,
+        "totalDeaths": 1355,
+        "newDeaths": 1,
+        "totalRecoveredCases": 9795,
         "newlyRecoveredCases": 0
       },
       {
@@ -1405,12 +1705,12 @@
           "isoCode": "US-MT",
           "lat": 46.879682
         },
-        "totalConfirmedCases": 619,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 19,
-        "newDeaths": 0,
-        "totalRecoveredCases": 510,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 4429,
+        "newlyConfirmedCases": 67,
+        "totalDeaths": 65,
+        "newDeaths": 1,
+        "totalRecoveredCases": 2820,
+        "newlyRecoveredCases": 54
       },
       {
         "location": {
@@ -1421,11 +1721,11 @@
           "isoCode": "US-NE",
           "lat": 41.492537
         },
-        "totalConfirmedCases": 16851,
+        "totalConfirmedCases": 27210,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 226,
+        "totalDeaths": 343,
         "newDeaths": 0,
-        "totalRecoveredCases": 10351,
+        "totalRecoveredCases": 19764,
         "newlyRecoveredCases": 0
       },
       {
@@ -1437,11 +1737,11 @@
           "isoCode": "US-NV",
           "lat": 38.80261
         },
-        "totalConfirmedCases": 11329,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 466,
-        "newDeaths": 0,
-        "totalRecoveredCases": 8064,
+        "totalConfirmedCases": 52828,
+        "newlyConfirmedCases": 571,
+        "totalDeaths": 890,
+        "newDeaths": 28,
+        "totalRecoveredCases": 25020,
         "newlyRecoveredCases": 0
       },
       {
@@ -1453,11 +1753,11 @@
           "isoCode": "US-NH",
           "lat": 43.193852
         },
-        "totalConfirmedCases": 5345,
+        "totalConfirmedCases": 6693,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 320,
+        "totalDeaths": 418,
         "newDeaths": 0,
-        "totalRecoveredCases": 4041,
+        "totalRecoveredCases": 5915,
         "newlyRecoveredCases": 0
       },
       {
@@ -1469,11 +1769,11 @@
           "isoCode": "US-NJ",
           "lat": 40.058324
         },
-        "totalConfirmedCases": 169804,
+        "totalConfirmedCases": 188645,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 12782,
+        "totalDeaths": 15924,
         "newDeaths": 0,
-        "totalRecoveredCases": 33528,
+        "totalRecoveredCases": 140826,
         "newlyRecoveredCases": 0
       },
       {
@@ -1485,11 +1785,11 @@
           "isoCode": "US-NM",
           "lat": 34.97273
         },
-        "totalConfirmedCases": 10259,
+        "totalConfirmedCases": 21801,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 443,
-        "newDeaths": 1,
-        "totalRecoveredCases": 4160,
+        "totalDeaths": 661,
+        "newDeaths": 0,
+        "totalRecoveredCases": 8685,
         "newlyRecoveredCases": 0
       },
       {
@@ -1501,12 +1801,12 @@
           "isoCode": "US-NY",
           "lat": 43.299428
         },
-        "totalConfirmedCases": 405139,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 31370,
+        "totalConfirmedCases": 447213,
+        "newlyConfirmedCases": 522,
+        "totalDeaths": 33524,
         "newDeaths": 1,
-        "totalRecoveredCases": 86091,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 327524,
+        "newlyRecoveredCases": 3053
       },
       {
         "location": {
@@ -1517,11 +1817,11 @@
           "isoCode": "US-NC",
           "lat": 35.759573
         },
-        "totalConfirmedCases": 45115,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 1167,
+        "totalConfirmedCases": 129476,
+        "newlyConfirmedCases": 638,
+        "totalDeaths": 2088,
         "newDeaths": 1,
-        "totalRecoveredCases": 29219,
+        "totalRecoveredCases": 105093,
         "newlyRecoveredCases": 0
       },
       {
@@ -1533,12 +1833,12 @@
           "isoCode": "US-ND",
           "lat": 47.551493
         },
-        "totalConfirmedCases": 3123,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 74,
-        "newDeaths": 0,
-        "totalRecoveredCases": 2683,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 7057,
+        "newlyConfirmedCases": 120,
+        "totalDeaths": 108,
+        "newDeaths": 1,
+        "totalRecoveredCases": 5837,
+        "newlyRecoveredCases": 122
       },
       {
         "location": {
@@ -1549,9 +1849,9 @@
           "isoCode": null,
           "lat": 15.183333
         },
-        "totalConfirmedCases": 14,
+        "totalConfirmedCases": 60,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 2,
+        "totalDeaths": 4,
         "newDeaths": 0,
         "totalRecoveredCases": 11,
         "newlyRecoveredCases": 0
@@ -1565,12 +1865,12 @@
           "isoCode": "US-OH",
           "lat": 40.417287
         },
-        "totalConfirmedCases": 41612,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 2580,
-        "newDeaths": 0,
-        "totalRecoveredCases": 8919,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 96321,
+        "newlyConfirmedCases": 1185,
+        "totalDeaths": 3605,
+        "newDeaths": 25,
+        "totalRecoveredCases": 72950,
+        "newlyRecoveredCases": 1612
       },
       {
         "location": {
@@ -1581,12 +1881,12 @@
           "isoCode": "US-OK",
           "lat": 35.007752
         },
-        "totalConfirmedCases": 8424,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 359,
-        "newDeaths": 0,
-        "totalRecoveredCases": 6578,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 40564,
+        "newlyConfirmedCases": 1100,
+        "totalDeaths": 583,
+        "newDeaths": 16,
+        "totalRecoveredCases": 33383,
+        "newlyRecoveredCases": 1064
       },
       {
         "location": {
@@ -1597,11 +1897,11 @@
           "isoCode": "US-OR",
           "lat": 43.804133
         },
-        "totalConfirmedCases": 5826,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 180,
+        "totalConfirmedCases": 19979,
+        "newlyConfirmedCases": 278,
+        "totalDeaths": 338,
         "newDeaths": 0,
-        "totalRecoveredCases": 2431,
+        "totalRecoveredCases": 3999,
         "newlyRecoveredCases": 0
       },
       {
@@ -1613,11 +1913,11 @@
           "isoCode": "US-PA",
           "lat": 41.203322
         },
-        "totalConfirmedCases": 83689,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 6322,
-        "newDeaths": 0,
-        "totalRecoveredCases": 56822,
+        "totalConfirmedCases": 120492,
+        "newlyConfirmedCases": 715,
+        "totalDeaths": 7334,
+        "newDeaths": 13,
+        "totalRecoveredCases": 86757,
         "newlyRecoveredCases": 0
       },
       {
@@ -1629,12 +1929,12 @@
           "isoCode": "US-RI",
           "lat": 41.580095
         },
-        "totalConfirmedCases": 16093,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 851,
-        "newDeaths": 0,
-        "totalRecoveredCases": 1435,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 19481,
+        "newlyConfirmedCases": 91,
+        "totalDeaths": 1012,
+        "newDeaths": 1,
+        "totalRecoveredCases": 1855,
+        "newlyRecoveredCases": 7
       },
       {
         "location": {
@@ -1645,11 +1945,11 @@
           "isoCode": "US-SC",
           "lat": 33.836081
         },
-        "totalConfirmedCases": 19414,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 602,
-        "newDeaths": 0,
-        "totalRecoveredCases": 8682,
+        "totalConfirmedCases": 95472,
+        "newlyConfirmedCases": 1281,
+        "totalDeaths": 1894,
+        "newDeaths": 45,
+        "totalRecoveredCases": 32860,
         "newlyRecoveredCases": 0
       },
       {
@@ -1661,12 +1961,12 @@
           "isoCode": "US-SD",
           "lat": 43.969515
         },
-        "totalConfirmedCases": 5934,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 77,
+        "totalConfirmedCases": 9168,
+        "newlyConfirmedCases": 84,
+        "totalDeaths": 138,
         "newDeaths": 0,
-        "totalRecoveredCases": 4899,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 8080,
+        "newlyRecoveredCases": 72
       },
       {
         "location": {
@@ -1677,12 +1977,12 @@
           "isoCode": "US-TN",
           "lat": 35.517491
         },
-        "totalConfirmedCases": 31204,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 1232,
+        "totalConfirmedCases": 114098,
+        "newlyConfirmedCases": 1602,
+        "totalDeaths": 1520,
         "newDeaths": 0,
-        "totalRecoveredCases": 19896,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 75550,
+        "newlyRecoveredCases": 2291
       },
       {
         "location": {
@@ -1693,12 +1993,12 @@
           "isoCode": "US-TX",
           "lat": 31.968599
         },
-        "totalConfirmedCases": 91380,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 2016,
-        "newDeaths": 0,
-        "totalRecoveredCases": 59104,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 477458,
+        "newlyConfirmedCases": 4982,
+        "totalDeaths": 8060,
+        "newDeaths": 13,
+        "totalRecoveredCases": 315652,
+        "newlyRecoveredCases": 9390
       },
       {
         "location": {
@@ -1709,12 +2009,12 @@
           "isoCode": "US-UT",
           "lat": 39.32098
         },
-        "totalConfirmedCases": 15110,
-        "newlyConfirmedCases": 127,
-        "totalDeaths": 145,
-        "newDeaths": 2,
-        "totalRecoveredCases": 8380,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 42437,
+        "newlyConfirmedCases": 46,
+        "totalDeaths": 329,
+        "newDeaths": 0,
+        "totalRecoveredCases": 30911,
+        "newlyRecoveredCases": 462
       },
       {
         "location": {
@@ -1725,12 +2025,12 @@
           "isoCode": "US-VT",
           "lat": 44.558803
         },
-        "totalConfirmedCases": 1128,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 56,
+        "totalConfirmedCases": 1436,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 58,
         "newDeaths": 0,
-        "totalRecoveredCases": 912,
-        "newlyRecoveredCases": 0
+        "totalRecoveredCases": 1254,
+        "newlyRecoveredCases": 5
       },
       {
         "location": {
@@ -1741,11 +2041,11 @@
           "isoCode": "US-VA",
           "lat": 37.431573
         },
-        "totalConfirmedCases": 55331,
-        "newlyConfirmedCases": 445,
-        "totalDeaths": 1570,
-        "newDeaths": 18,
-        "totalRecoveredCases": 7230,
+        "totalConfirmedCases": 95049,
+        "newlyConfirmedCases": 798,
+        "totalDeaths": 2274,
+        "newDeaths": 30,
+        "totalRecoveredCases": 12385,
         "newlyRecoveredCases": 0
       },
       {
@@ -1757,11 +2057,11 @@
           "isoCode": "US-WA",
           "lat": 47.751074
         },
-        "totalConfirmedCases": 27196,
+        "totalConfirmedCases": 61828,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 1224,
+        "totalDeaths": 1706,
         "newDeaths": 0,
-        "totalRecoveredCases": 8763,
+        "totalRecoveredCases": 20197,
         "newlyRecoveredCases": 0
       },
       {
@@ -1773,12 +2073,12 @@
           "isoCode": null,
           "lat": 38.597626
         },
-        "totalConfirmedCases": 2347,
-        "newlyConfirmedCases": 1,
-        "totalDeaths": 90,
-        "newDeaths": 0,
-        "totalRecoveredCases": 1607,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 7159,
+        "newlyConfirmedCases": 98,
+        "totalDeaths": 125,
+        "newDeaths": 1,
+        "totalRecoveredCases": 5218,
+        "newlyRecoveredCases": 156
       },
       {
         "location": {
@@ -1789,12 +2089,12 @@
           "isoCode": "US-WI",
           "lat": 43.78444
         },
-        "totalConfirmedCases": 23038,
-        "newlyConfirmedCases": 0,
-        "totalDeaths": 698,
-        "newDeaths": 1,
-        "totalRecoveredCases": 16837,
-        "newlyRecoveredCases": 0
+        "totalConfirmedCases": 56940,
+        "newlyConfirmedCases": 657,
+        "totalDeaths": 970,
+        "newDeaths": 4,
+        "totalRecoveredCases": 46323,
+        "newlyRecoveredCases": 955
       },
       {
         "location": {
@@ -1805,11 +2105,11 @@
           "isoCode": "US-WY",
           "lat": 43.075968
         },
-        "totalConfirmedCases": 1082,
+        "totalConfirmedCases": 2885,
         "newlyConfirmedCases": 0,
-        "totalDeaths": 18,
+        "totalDeaths": 27,
         "newDeaths": 0,
-        "totalRecoveredCases": 838,
+        "totalRecoveredCases": 2214,
         "newlyRecoveredCases": 0
       },
       {
