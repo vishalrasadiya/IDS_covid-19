@@ -75,7 +75,7 @@ app.layout = html.Div([
 def update_figure(country_list,show_doubling):
 
 
-    if 'doubling_rate' in show_doubling:
+    if 'DR' in show_doubling:
         my_yaxis={'type':"log",
                'title':'Approximated doubling rate over 3 days (larger numbers are better #stayathome)'
               }
@@ -94,7 +94,6 @@ def update_figure(country_list,show_doubling):
             df_plot=df_plot[['state','country','confirmed','confirmed_filtered','confirmed_DR','confirmed_filtered_DR','date']].groupby(['country','date']).agg(np.mean).reset_index()
         else:
             df_plot=df_plot[['state','country','confirmed','confirmed_filtered','confirmed_DR','confirmed_filtered_DR','date']].groupby(['country','date']).agg(np.sum).reset_index()
-       #print(show_doubling)
 
 
         traces.append(dict(x=df_plot.date,
